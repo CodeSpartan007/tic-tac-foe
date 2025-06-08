@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Tic Tac Foe",
   description: "Play Tic Tac Toe against AI with multiple game variations and difficulty levels",
-    generator: 'v0.dev'
+    creator: 'CodeSpartan'
 }
 
 export const viewport: Viewport = {
