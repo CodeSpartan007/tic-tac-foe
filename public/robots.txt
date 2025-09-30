@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://tic-tac-foe-red.vercel.app/sitemap.xml
